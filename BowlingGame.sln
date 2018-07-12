@@ -3,15 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bowling-game", "bowling-game\bowling-game.csproj", "{6CAC7904-853A-4D4D-98ED-EAA1AC2E08B2}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bowling-game-test", "bowling-game-test\bowling-game-test.csproj", "{63209E6B-2603-4957-96DD-2564009C47EA}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{971E58A5-B9F4-4351-A423-EF86281CC908}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\Downloads\BowlingGameKata.ppt = ..\..\Downloads\BowlingGameKata.ppt
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
